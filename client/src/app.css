@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+i{
+    cursor: pointer;
+}
+
+th{
+    font-size: 1.5rem;
+}
